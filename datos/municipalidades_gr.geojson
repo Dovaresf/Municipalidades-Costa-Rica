@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "municipalidades_gr",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 119, "provincia": "San Jose", "region": "Brunca", "municipalidad": "Perez Zeledon", "departamento": "Oficina de Gestion de Riesgos y Atencion de Emergencias", "latitud": 9.37317, "longitud": -83.70274 }, "geometry": { "type": "Point", "coordinates": [ -83.70274, 9.37317 ] } },
+{ "type": "Feature", "properties": { "id": 101, "provincia": "San Jose", "region": "Central", "municipalidad": "San Jose", "departamento": "Gestion del Riesgo y Atencion de Emergencias ", "latitud": 9.93157, "longitud": -84.09473 }, "geometry": { "type": "Point", "coordinates": [ -84.09473, 9.93157 ] } },
+{ "type": "Feature", "properties": { "id": 103, "provincia": "San Jose", "region": "Central", "municipalidad": "Desamparados", "departamento": "Area de Gestion del Riesgo", "latitud": 9.89871, "longitud": -84.06533 }, "geometry": { "type": "Point", "coordinates": [ -84.06533, 9.89871 ] } },
+{ "type": "Feature", "properties": { "id": 114, "provincia": "San Jose", "region": "Central", "municipalidad": "Moravia", "departamento": "Gestion de Riesgo", "latitud": 9.961, "longitud": -84.04751 }, "geometry": { "type": "Point", "coordinates": [ -84.04751, 9.961 ] } },
+{ "type": "Feature", "properties": { "id": 203, "provincia": "Alajuela", "region": "Central", "municipalidad": "Grecia", "departamento": "Prevencion y Gestion de Riesgo", "latitud": 10.0734, "longitud": -84.312 }, "geometry": { "type": "Point", "coordinates": [ -84.312, 10.0734 ] } },
+{ "type": "Feature", "properties": { "id": 301, "provincia": "Cartago", "region": "Central", "municipalidad": "Cartago", "departamento": "Gestion del Riesgo", "latitud": 9.86504, "longitud": -83.92074 }, "geometry": { "type": "Point", "coordinates": [ -83.92074, 9.86504 ] } },
+{ "type": "Feature", "properties": { "id": 302, "provincia": "Cartago", "region": "Central", "municipalidad": "Paraiso", "departamento": "Gestion de Riesgos", "latitud": 9.83941, "longitud": -83.86566 }, "geometry": { "type": "Point", "coordinates": [ -83.86566, 9.83941 ] } },
+{ "type": "Feature", "properties": { "id": 305, "provincia": "Cartago", "region": "Central", "municipalidad": "Turrialba", "departamento": "Gestion de Riesgos", "latitud": 9.90652, "longitud": -83.68384 }, "geometry": { "type": "Point", "coordinates": [ -83.68384, 9.90652 ] } },
+{ "type": "Feature", "properties": { "id": 502, "provincia": "Guanacaste", "region": "Chorotega", "municipalidad": "Nicoya", "departamento": "Gestion de Riesgo", "latitud": 10.14184, "longitud": -85.45381 }, "geometry": { "type": "Point", "coordinates": [ -85.45381, 10.14184 ] } },
+{ "type": "Feature", "properties": { "id": 612, "provincia": "Puntarenas", "region": "Pacifico Central", "municipalidad": "Monteverde", "departamento": "Gestor Riesgo y Amenazas", "latitud": 10.31788, "longitud": -84.82386 }, "geometry": { "type": "Point", "coordinates": [ -84.82386, 10.31788 ] } }
+]
+}
